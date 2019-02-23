@@ -1,0 +1,87 @@
+﻿Tejas Shinde
+BCA graduate, currently pursuing MSc - (Computer Applications) Data Science
+	  
+
+Tejas Ashok Shinde
+A5-503 , Kohinoor Estate, Mula Road
+Pune , 411003
++91 74477 75100
+stejas44@gmail.com
+tejasshinde@null.net
+www.github.com/tejashinde
+	ㅡ
+Skills
+	  
+
+I have knowledge of :
+Web Development
+1. HTML5
+2. CSS
+3. Bootstrap
+4. JavaScript
+5. Flask
+Development
+1. Java EE / SE
+2. Core Java
+3. Scripting in Python
+4. Android Studio Java, Application Development
+	ㅡ
+Experience
+	  
+
+Symbiosis Institute of Computer Studies and Research / 
+Masters Student
+2018-2020, PUNE
+(Every document is made public onto my github)
+
+
+NGO Work
+I have worked for an NGO through the institute where in we had to develop a full stack website for e-shopping, including the cart mechanism and payment gateways. We were a group of 6 and we successfully completed the same in 2 months of time during the 3rd year of our bachelors program.
+
+
+Application
+As a part of our dissertation, Me and my colleague have developed and android application, which was related fully with the location of the user, It showed deals for restaurants, salons and many other activities inside the proximity of the user’s location. We used Java; Android Studio for the backend, XML and HTML5 for the frontend and Firebase as our database for user registration and followed on further.
+
+
+
+
+Sentimental Analysis of Live Tweets on a topic
+Currently I’m working on a full stack python project, which will scrape live twitter data and carry out a sentimental analysis on the same. The graph produced is dynamically live. Currently, Python and R being my main languages of interest, I have been working on many various datasets to reach out to conclusions and plot out some resourceful information.
+
+
+Real time object detection
+Python truly admires me, and every time I open up my notebook, I think of learning something new. I have had my shot at real object image recognition with a pre-trained model of MobileSSD, keras (tensorflow), opencv. 
+
+
+Playing with datasets
+I have been buzzing around datasets, be it on kaggle or gov, my aim as a Data Science specialisation student is to clean it, reach to conclusions and roll the graphs  out for further enhancements
+
+
+Web Scraping with Beautiful Soup
+One of my favourite things, is to scrape the data on the web and process it here on my machine. I have always been fascinated towards this, and since I read about this package in Python named Beautiful Soup, I have been using it all time long just for personal use.
+
+
+A proper data pre-processing and visualization
+I have worked on the NBA player stats data and drawn conclusions such as the best player, predictions were made, what kind of player plays the best on what position and many other handful of conclusions.
+
+
+Xsemble 
+Xsemble is basically a project oriented company which puts up some modules which collectively make a deliverable. We got a chance to deal with the industry level modules and solve them using Eclipse, Tomcat, gradle, Mockito framework and Junit test server. We actually got to know how a modularized project works
+
+
+	ㅡ
+Education
+	  
+
+Symbiosis Primary and Secondary School / Junior KG - 10th grade
+Symbiosis College of Arts and Commerce / 11th & 12th Grades
+Symbiosis Institute of Computer Studies and Research / Bachelors in Computer Applications (2015 - 2018)
+Symbiosis Institute of Computer Studies and Research / Masters in Computer Science - Computer Applications, Specialization in Data Science (2018 - 2020)
+	ㅡ
+Awards
+	  
+
+IGX all India Hackathon 2nd prize.
+Recently ranked 3rd in course, MSc CA Data Science 2018
+Brazilian Soccer School, 1st Prize
+School certificates for Volleyball, Soccer
